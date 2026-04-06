@@ -1,9 +1,0 @@
-backend/.env
-backend/__pycache__/
-backend/**/__pycache__/
-backend/*.pyc
-backend/anra.db
-backend/venv/
-frontend/node_modules/
-frontend/dist/
-.DS_Store
